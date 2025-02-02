@@ -1117,12 +1117,12 @@ Renderizado dinámico de imágenes coloridas.
 ### 50 . [Github Readme npm Downloads](https://github.com/maddhruv/github-readme-npm-downloads)
 Show npm packages downloads ⏬ in GitHub README
 
-📍 For example :
+📍 Por ejemplo :
 <table>
 <thead>
 <tr>
-<th>Name</th>
-<th>Downloads</th>
+<th>Nombre</th>
+<th>Descargas</th>
 </tr>
 </thead>
 <tbody>
@@ -1151,34 +1151,33 @@ Show npm packages downloads ⏬ in GitHub README
 
 ---
 
-</details>
+<<details>
+ <summary><strong>Haz clic para expandir la lista (51~)</strong></summary>
 
-<details>
- <summary><strong>Click to expand list (51~)</strong></summary>
   
-### 51 . [Github Contribution Stats](https://github.com/LordDashMe/github-contribution-stats)
-Dynamically generated Github Contribution Stats. 📈 📆
+### 51 . [Estadísticas de contribuciones de Github](https://github.com/LordDashMe/github-contribution-stats)  
+Estadísticas de contribuciones de Github generadas dinámicamente. 📈 📆  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9f6e8d52bfe1edb25864dc69043d9d35aef73695f403a372214801f5338654e8/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6776616e726f7373756d" alt="Contribution Stats" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=gvanrossum" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/9f6e8d52bfe1edb25864dc69043d9d35aef73695f403a372214801f5338654e8/68747470733a2f2f6769746875622d636f6e747269627574696f6e2d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d6776616e726f7373756d" alt="Estadísticas de contribuciones" data-canonical-src="https://github-contribution-stats.vercel.app/api/?username=gvanrossum" style="max-width: 100%;">
 </p>
 
-### 52 . [Github Star History](https://github.com/bytebase/star-history)
-Dynamically generated GitHub repository star chart. 📈 ⭐️
+### 52 . [Historial de Estrellas en Github](https://github.com/bytebase/star-history)  
+Gráfico dinámico de estrellas en repositorios de GitHub. 📈 ⭐️  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
   <a href="https://star-history.com/#rzashakeri/beautify-github-profile&Date">
-    <img src="https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date" alt="Star History Chart">
+    <img src="https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date" alt="Gráfico de historial de estrellas">
   </a>
 </p>
 
-### 53 . [Moon.svg](https://github.com/hmu332233/moon.svg)
-Add real-time moon on your github profile!<br>
-Moon.svg shows the current moon phase in real time!
+### 53 . [Moon.svg](https://github.com/hmu332233/moon.svg)  
+¡Añade la luna en tiempo real a tu perfil de Github!<br>  
+Moon.svg muestra la fase actual de la luna en tiempo real.  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
   <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon1.svg" />
@@ -1188,56 +1187,56 @@ Moon.svg shows the current moon phase in real time!
   </a>
 </p>
 
-### 54 . [Stackoverflow Readme Profile](https://github.com/johannchopin/stackoverflow-readme-profile)
-Easily share your Stackoverflow's profile on your README
+### 54 . [Perfil de Stackoverflow en el Readme](https://github.com/johannchopin/stackoverflow-readme-profile)  
+Comparte fácilmente tu perfil de Stackoverflow en tu README  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="profile" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg" alt="perfil" style="max-width: 100%;">
 </p>
 
-### 55 . [Github Readme Programming Quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-Add Programming Quotes To Your GitHub Readme
+### 55 . [Citas de Programación en el Readme de Github](https://github.com/PiyushSuthar/github-readme-quotes)  
+Añade citas de programación a tu Readme de Github  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Citas en el Readme">
   </a>
 </p>
 
-### 56 . [Chess.com Games and Stats](https://github.com/Balastrong/chess-stats-action)
-Automatically update your README.md with Chess.com games and stats - fully customizable
+### 56 . [Juegos y Estadísticas de Chess.com](https://github.com/Balastrong/chess-stats-action)  
+Actualiza automáticamente tu README.md con juegos y estadísticas de Chess.com - completamente personalizable  
 
-📍 For example :
+📍 Por ejemplo:
 
-|    White ⚪    |    Black ⚫    |   Result 🏆   |  Date 📅  |                                                           Position 🗺️                                                            |
+|    Blanco ⚪    |    Negro ⚫    |   Resultado 🏆   |  Fecha 📅  |                                                           Posición 🗺️                                                            |
 | :------------: | :------------: | :-----------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|   **Hikaru**   | mauricioflores |    win 🥇     | 31/7/2022 |                  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/7k/8/2R5/8/8 b - -">Link</a>                  |
-| mauricioflores |   **Hikaru**   |    win 🥇     | 31/7/2022 |           <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/2P5/3P2KR/3nr2P/P4r2/8/2B5 w - -">Link</a>            |
-|   **Hikaru**   | mauricioflores |    win 🥇     | 31/7/2022 |            <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p4K2/4N2p/pn1PP2P/6R1/8/8 b - -">Link</a>             |
-| mauricioflores |   **Hikaru**   |   agreed ⏸️   | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1pp1q2p/3p1rb1/p1nPp1NQ/1nP1p1BP/2N5/PP3P2/1K1R2R1 w - -">Link</a> |
-|   **Hikaru**   |     Jospem     |    win 🥇     | 31/7/2022 |        <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1R3n2/3p4/2p1pPp1/2P1P1N1/3P4/8/3K4 b - -">Link</a>         |
-|     Jospem     |   **Hikaru**   |  timeout ❌   | 30/7/2022 |  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/2q1bbpk/5p2/4p1pP/p2pPnP1/B2P1QN1/2P2PK1/R2B3R w - -">Link</a>  |
-|   **Hikaru**   |     Jospem     |    win 🥇     | 30/7/2022 |          <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/3b3p/1P1B2p1/4N3/2B5/6P1/5K1P/8 b - -">Link</a>          |
-|     Jospem     |   **Hikaru**   |    win 🥇     | 30/7/2022 |            <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/6p1/8/2k4P/4p3/1bp1Kp2/5R2 w - -">Link</a>            |
-|   **Hikaru**   |     Jospem     | repetition ⏸️ | 29/7/2022 |             <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6pk/2P2n2/7p/3K2bP/6P1/8 b - -">Link</a>             |
-|     Jospem     |   **Hikaru**   | checkmated ❌ | 28/7/2022 |         <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2np1/p1p1p2p/4P3/1P1Pr3/6K1/3R4 w - -">Link</a>          |
+|   **Hikaru**   | mauricioflores |    gana 🥇     | 31/7/2022 |                  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/7k/8/2R5/8/8 b - -">Enlace</a>                  |
+| mauricioflores |   **Hikaru**   |    gana 🥇     | 31/7/2022 |           <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/2P5/3P2KR/3nr2P/P4r2/8/2B5 w - -">Enlace</a>            |
+|   **Hikaru**   | mauricioflores |    gana 🥇     | 31/7/2022 |            <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p4K2/4N2p/pn1PP2P/6R1/8/8 b - -">Enlace</a>             |
+| mauricioflores |   **Hikaru**   |   acordado ⏸️   | 31/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1pp1q2p/3p1rb1/p1nPp1NQ/1nP1p1BP/2N5/PP3P2/1K1R2R1 w - -">Enlace</a> |
+|   **Hikaru**   |     Jospem     |    gana 🥇     | 31/7/2022 |        <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1R3n2/3p4/2p1pPp1/2P1P1N1/3P4/8/3K4 b - -">Enlace</a>         |
+|     Jospem     |   **Hikaru**   |  tiempo agotado ❌   | 30/7/2022 |  <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/2q1bbpk/5p2/4p1pP/p2pPnP1/B2P1QN1/2P2PK1/R2B3R w - -">Enlace</a>  |
+|   **Hikaru**   |     Jospem     |    gana 🥇     | 30/7/2022 |          <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/3b3p/1P1B2p1/4N3/2B5/6P1/5K1P/8 b - -">Enlace</a>          |
+|     Jospem     |   **Hikaru**   |    gana 🥇     | 30/7/2022 |            <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/6p1/8/2k4P/4p3/1bp1Kp2/5R2 w - -">Enlace</a>            |
+|   **Hikaru**   |     Jospem     | repetición ⏸️ | 29/7/2022 |             <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q2/6pk/2P2n2/7p/3K2bP/6P1/8 b - -">Enlace</a>             |
+|     Jospem     |   **Hikaru**   | jaque mate ❌ | 28/7/2022 |         <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2np1/p1p1p2p/4P3/1P1Pr3/6K1/3R4 w - -">Enlace</a>          |
 
-### 57 . [Terminal Gif Maker](https://www.terminalgif.com/)
-Terminal Gif Maker is a tool for creating code samples in the terminal interface. You can create gifs for your projects and you can show that in the README of your project. You can use the GIF in git providers like Github and Gitlab.
+### 57 . [Creador de GIFs para Terminal](https://www.terminalgif.com/)  
+Terminal Gif Maker es una herramienta para crear muestras de código en la interfaz de terminal. Puedes crear gifs para tus proyectos y mostrarlos en el README de tu proyecto. Puedes usar el GIF en proveedores de Git como Github y Gitlab.  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
-  <img src="./terminal.gif" alt="terminal gif">
+  <img src="./terminal.gif" alt="gif de terminal">
 </p>
 
-### 58 . [Spotify Data Card](https://github.com/magic-ike/spotify-data-card)
-Show your Spotify activity on your GitHub profile README.
+### 58 . [Tarjeta de Datos de Spotify](https://github.com/magic-ike/spotify-data-card)  
+Muestra tu actividad de Spotify en tu perfil de GitHub.  
 
-📍 For example :
+📍 Por ejemplo:
 <p align="center">
-  <img src="spotify-data-card.svg" alt="Spotify Data Card" width=720>
+  <img src="spotify-data-card.svg" alt="Tarjeta de Datos de Spotify" width=720>
 </p>
 
 ### 59 . [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
